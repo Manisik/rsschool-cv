@@ -17,7 +17,10 @@
 ```
 
 ## Skills: 
-- HTML, CSS, JS, GIT.
+ - JavaScript
+ - HTML
+ - CSS
+ - GIT
 
 ## English: 
 
