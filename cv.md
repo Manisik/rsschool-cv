@@ -19,5 +19,6 @@
 ## Skills: 
 - HTML, CSS, JS, GIT.
 
-+ ## English: 
+## English: 
+
    - I think closer to the *Beginner*, but I am able to read technical documentation and constantly improve my language skills and litle speak.
