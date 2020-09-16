@@ -1,9 +1,9 @@
 ## Name: Denis Mikhalkevich
 **Contact info:**
 
- - tel +375447865003
+ **tel:** +375447865003
 
- - mail: Rikisan1990@gmail.com
+ **mail:** Rikisan1990@gmail.com
 
 ## Summary:
 - 29 years old;
